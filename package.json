@@ -1,0 +1,24 @@
+{
+  "name": "discordexample",
+  "version": "0.0.1",
+  "description": "A Discord Bot written in TypeScript",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyveria/DiscordExample.git"
+  },
+  "keywords": [
+    "discord",
+    "hyveria",
+    "typescript"
+  ],
+  "author": "Hyveria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyveria/DiscordExample/issues"
+  },
+  "homepage": "https://github.com/Hyveria/DiscordExample#readme"
+}
